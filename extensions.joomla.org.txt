@@ -1,0 +1,30 @@
+The Acumulus addon connects your **VirtueMart or HikaShop** store to the Dutch SIEL Acumulus online financial administration/bookkeeping application. It can add your invoices automatically or via a batch form to your administration, saving you a lot of manual, error prone work.
+
+NOTE: The Acumulus for Joomla addon itself is free even though it is listed as a paid download. It is listed as such because you need a paid subscription at SIEL Acumulus.
+
+The Acumulus addon assumes that:
+ ● You have a paid account with SIEL Acumulus (see https://www.siel.nl/acumulus/).
+ ● You installed either VirtueMart or HikaShop.
+If not, this component is useless and will not do anything.
+
+The Acumulus for Joomla addon:
+ ● Automatically sends invoices for your orders to Acumulus based on order status (enable the accompanying plugin for the shop you are using).
+ ● Provides a form that allows you to send a batch of invoices for orders to Acumulus (e.g. when you just installed this plugin).
+ ● Does have 3 admin screens: a settings, advanced settings, and a batch send screen.
+ ● Does not in any way interfere with the front-end UI.
+
+ 
+De Acumulus addon verbindt uw VirtueMart of HikaShop winkel met het SIEL Acumulus online boekhoudsysteem. Het verzend uw facturen automatisch of handmatig aangestuurd naar uw administratie, en bespaart u daardoor een hoop tijd en foutgevoelig werk.
+
+NB: De Acumulus addon zelf is gratis ondanks dat deze als betaald wordt getoond. Dit wordt zo getoond omdat SIEL Acumulus zelf wel betaald is.
+
+De Acumulus addom gaat ervan uit dat:
+ ● U een (betaald) account heeft bij SIEL Acumulus (zie https://www.siel.nl/acumulus/).
+ ● U VirtueMart of HikaShop heeft geïnstalleerd.
+Zo niet dan is deze component nutteloos.
+
+De Acumulus addon:
+ ● Verzendt facturen voor uw bestellingen automatisch naar Acumulus op bais van bestelstatus (hierbvoor dient u de juiste plugin voor uw winkel addon te activeren).
+ ● Biedt een formulier om een batch van facturen voor uw bestellingen naar Acumulus te versturen (handig als u deze plugin net heeft geïnstalleerd).
+ ● Heeft 3 administratieve schermen: een instellingen, geavanceerde instellingen, en een batchverzendscherm.
+ ● Heeft geen enkele invloed op de front-end UI van uw winkel.
